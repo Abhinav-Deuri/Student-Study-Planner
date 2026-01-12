@@ -1,7 +1,9 @@
 🎓 Student Study Planner & Performance Tracker
+
 An interactive Python-based tool designed to help students organize their curriculum, track study hours, and visualize their academic progress through a user-friendly web interface.
 
 🚀 Features
+
 Subject Management: Add or remove subjects from your personalized dashboard.
 
 Topic Tracking: Define specific topics for each subject and mark them as complete once mastered.
@@ -15,6 +17,7 @@ Exportable Reports: Generate full text-based summaries and download your study d
 Interactive UI: Powered by Gradio with a "Soft" aesthetic theme for a modern user experience.
 
 🛠️ Technical Stack
+
 Language: Python
 
 UI Framework: Gradio
